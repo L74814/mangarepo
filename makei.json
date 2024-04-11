@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/UR8WpVr.png",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Hello, Anna Yanami",
       "volume": "1",
       "last_updated": "1732062660",
       "groups": {
@@ -14,11 +14,19 @@
       }
     },
     "2": {
-      "title": "2",
+      "title": "Am I a Passerby Who Suddenly Appears Before the Losing Heroine During the Finale?",
       "volume": "1",
       "last_updated": "1700861280",
       "groups": {
         "Skythewood": "/proxy/api/mangadex/chapter/8b2d1613-7afa-452c-a2f2-e11cba61a9df"
+      }
+    },
+    "3": {
+      "title": "Citrus Youth",
+      "volume": "1",
+      "last_updated": "1712875181",
+      "groups": {
+        "Skythewood": "/proxy/api/mangadex/chapter/745ff250-6e46-4595-a215-f7494652a919"
       }
     },
     "14.5": {
