@@ -55,7 +55,7 @@
     },
     "14.5": {
       "title": "14.5",
-      "volume": "3",
+      "volume": "2",
       "last_updated": "1712874032",
       "groups": {
         "": "/proxy/api/imgur/chapter/dbUoh2w"
@@ -67,6 +67,62 @@
       "last_updated": "1712979748",
       "groups": {
         "": "/proxy/api/imgur/chapter/Cg4LPW3"
+      }
+    },
+    "7.1": {
+      "title": "7th loss: \"Continuation: Your promised defeat\"",
+      "volume": "2",
+      "last_updated": "1707584400",
+      "groups": {
+        "NyanuKafe": "/proxy/api/mangadex/chapter/08c4adc5-8a7b-4454-9381-32457447ff5d"
+      }
+    },
+    "7.2": {
+      "title": " 7th loss: \"Continuation: Your promised defeat\"",
+      "volume": "2",
+      "last_updated": "1707537600",
+      "groups": {
+        "NyanuKafe": "/proxy/api/mangadex/chapter/90941d9f-45d4-4149-b423-5acbad60aed1"
+      }
+    },
+    "7.3": {
+      "title": "7th loss: \"Continuation: Your promised defeat\"",
+      "volume": "2",
+      "last_updated": "1708401600",
+      "groups": {
+        "NyanuKafe": "/proxy/api/mangadex/chapter/beaa7b3e-da85-40a8-982f-63e8a2531492"
+      }
+    },
+    "7.4": {
+      "title": "7th loss: \"Continuation: Your promised defeat\"",
+      "volume": "2",
+      "last_updated": "1709265600",
+      "groups": {
+        "NyanuKafe": "/proxy/api/mangadex/chapter/6a44f6f7-00bf-4fe5-b8ee-4893979dea8e"
+      }
+    },
+    "8.1": {
+      "title": "8th Loss \"That's how it is, Nukumozi-kun\"",
+      "volume": "2",
+      "last_updated": "1710216000",
+      "groups": {
+        "NyanuKafe": "/proxy/api/mangadex/chapter/ccfc3b5b-8c62-4880-bbcd-8ca6fa971797"
+      }
+    },
+    "8.2": {
+      "title": "8th Loss \"That's how it is, Nukumozi-kun\"",
+      "volume": "2",
+      "last_updated": "1711166400",
+      "groups": {
+        "NyanuKafe": "/proxy/api/mangadex/chapter/9f1111cf-8186-4129-a486-d43bee9b7d12"
+      }
+    },
+    "9.1": {
+      "title": "9th loss \"Tide and sometimes Remon - Sauce flavour -\"",
+      "volume": "2",
+      "last_updated": "1712203200",
+      "groups": {
+        "NyanuKafe": "/proxy/api/mangadex/chapter/8be6f21f-8ab7-40eb-8ff1-46bbdebef908"
       }
     }
   }
