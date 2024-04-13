@@ -37,12 +37,28 @@
         "Skythewood": "/proxy/api/mangadex/chapter/5a995f88-22c6-46cc-8207-78a15a1ab2cf"
       }
     },
+    "5": {
+      "title": "Your Promised Defeat",
+      "volume": "1",
+      "last_updated": "1712978219",
+      "groups": {
+        "Skythewood": "/proxy/api/imgur/chapter/SenaCix"
+      }
+    },
     "14.5": {
       "title": "14.5",
       "volume": "3",
       "last_updated": "1712874032",
       "groups": {
         "": "/proxy/api/imgur/chapter/dbUoh2w"
+      }
+    },
+    "3.5": {
+      "title": "Omake",
+      "volume": "1",
+      "last_updated": "1712979748",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Cg4LPW3"
       }
     }
   }
