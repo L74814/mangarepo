@@ -132,6 +132,14 @@
       "groups": {
         "NyanuKafe": "/proxy/api/mangadex/chapter/8be6f21f-8ab7-40eb-8ff1-46bbdebef908"
       }
+    },
+    "9.2": {
+      "title": "9.2",
+      "volume": "2",
+      "last_updated": "1713213084",
+      "groups": {
+        "NyanuKafe": "/proxy/api/mangadex/chapter/c0202101-f439-4d7e-9b2d-28aea9110515"
+      }
     }
   }
 }
