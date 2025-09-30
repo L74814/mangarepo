@@ -4,5 +4,14 @@
   "artist": "Muchi Maro",
   "author": "Muchi Maro",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "85": {
+      "title": "The Mysteries of the Body",
+      "volume": "7",
+      "last_updated": "1759270000",
+      "groups": {
+        "Harmless Monsters": "https://cubari.moe/read/gist/cmF3L0dyZWVud29vZC0wL1FDL21haW4vU2VpdG9rYWkuanNvbg/85/1/"
+      }
+    }
+  }
 }
